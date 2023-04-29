@@ -1,5 +1,4 @@
 # Build and Release Folders
-.venv/
 bin-debug/
 bin-release/
 [Oo]bj/
